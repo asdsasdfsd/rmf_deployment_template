@@ -14,7 +14,7 @@ jobs:
     env:
       builder_ns: tigerwk
       base_registry: docker.io
-      domain_url: rmf-deployment-template.open-rmf.org
+      domain_url: rmf.tfk3s.ezey.link
       ros_distro: humble
       tag: latest
     ##############################################################
